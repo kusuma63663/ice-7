@@ -1,76 +1,76 @@
 SaleDate,Region,SalesRep,Item,Units,UnitPrice,TotalAmount,HorsePower
-5/31/2023,East,Juan,Equinox,9,"23,800",214200,239
-7/16/2023,West,Joel,Traverse,8,"29,800",238400,224
-10/7/2023,East,Micah,Bolt EV,8,"32,620",260960,490
-8/28/2023,Central,Michael,Silverado 1500,9,"34,600",311400,333
-10/26/2023,Central,Daniel,Trax,8,"21,300",170400,480
-12/30/2023,Central,Zane,Equinox,6,"23,800",142800,239
-12/24/2023,East,April,Bolt EV,10,"32,620",326200,323
-6/25/2023,East,April,Blazer,5,"28,800",144000,506
-1/10/2024,Central,Matthew,Equinox,6,"23,800",142800,281
-4/23/2023,East,Juan,Silverado 1500,10,"34,600",346000,518
-12/14/2023,West,Betty,Blazer,7,"28,800",201600,364
-7/18/2023,Central,Michael,Traverse,9,"29,800",268200,205
-7/17/2023,West,Mark,Express,34,"32,500",1105000,791
-3/15/2024,Central,Valerie,Silverado 3500HD,5,"35,800",179000,472
-9/14/2023,West,Mark,Silverado 2500HD,9,"34,600",311400,530
-12/28/2023,Central,Daniel,Silverado 1500,5,"34,600",173000,409
-7/21/2023,East,Micah,Silverado 2500HD,6,"34,600",207600,318
-1/22/2024,East ,Micah,Colorado,7,"21,300",149100,288
-7/18/2023,East,Juan,Equinox,5,"23,800",119000,261
-7/6/2023,West,Mark,Camaro,9,"25,000",225000,291
-10/26/2023,Central,Zane,Bolt EV,10,"32,620",326200,420
-7/11/2023,East,Juan,Blazer,6,"28,800",172800,207
-8/21/2023,East,April,Colorado,6,"21,300",127800,519
-5/25/2023,West,Joel,Bolt EV,7,"32,620",228340,375
-6/28/2023,East,Juan,Camaro,5,"25,000",125000,336
-8/30/2023,West,Betty,Silverado 1500,8,"34,600",276800,264
-6/1/2023,East,April,Camaro,9,"25,000",225000,225
-2/18/2024,Central,Michael,Bolt EV,7,"32,620",228340,514
-12/28/2023,Central,Valerie,Trax,9,"21,300",191700,524
-1/26/2024,East,April,Impala,5,"31,620",158100,469
-9/8/2023,Central,Matthew,Spark,10,"13,400",134000,300
-10/5/2023,Central,Michael,Bolt EV,5,"32,620",163100,320
-1/26/2024,West,Joel,Impala,6,"31,620",189720,253
-9/12/2023,Central,Valerie,Silverado 1500,5,"34,600",173000,272
-5/4/2023,West,Joel,Blazer,9,"28,800",259200,561
-4/11/2023,West,Betty,Bolt EV,10,"32,620",326200,564
-9/15/2023,East,Micah,Impala,6,"31,620",189720,343
-10/7/2023,East,April,Spark,5,"13,400",67000,199
-7/16/2023,Central,Valerie,Silverado 2500HD,5,"34,600",173000,191
-9/19/2023,Central,Valerie,Suburban,5,"51,700",258500,214
-11/3/2023,East,Juan,Silverado 1500,6,"34,600",207600,331
-6/26/2023,Central,Daniel,Corvette,5,"58,900",294500,436
-6/16/2023,West,Mark,Suburban,10,"51,700",517000,353
-12/23/2023,Central,Matthew,Corvette,9,"58,900",530100,335
-4/12/2023,Central,Valerie,Corvette,10,"58,900",589000,423
-2/17/2024,Central,Daniel,Tahoe,10,"49,900",499000,559
-4/23/2023,Central,Michael,Malibu,10,"22,140",221400,581
-1/11/2024,West,Betty,Trax,7,"21,300",149100,231
-3/3/2024,East,Micah,Corvette,5,"58,900",294500,341
-8/27/2023,Central,Zane,Colorado,8,"21,300",170400,297
-10/24/2023,Central,Daniel,Sonic,6,"16,720",100320,317
-6/5/2023,Central,Michael,Traverse,7,"29,800",208600,184
-4/7/2023,West,Mark,Corvette,7,"58,900",412300,484
-10/15/2023,West,Mark,Malibu,10,"22,140",221400,588
-11/13/2023,Central,Michael,Spark,5,"13,400",67000,203
-7/12/2023,Central,Valerie,Suburban,5,"51,700",258500,368
-1/5/2024,East,Juan,Corvette,10,"58,900",589000,296
-6/16/2023,West,Betty,Tahoe,9,"49,900",449100,354
-6/6/2023,Central,Daniel,Colorado,10,"21,300",213000,217
-1/14/2024,Central,Zane,Colorado,6,"21,300",127800,540
-5/19/2023,West,Betty,Malibu,8,"22,140",177120,397
-4/19/2023,West,Betty,Malibu,5,"22,140",110700,362
-2/2/2024,East,Micah,Sonic,5,"16,720",83600,182
-4/3/2023,Central,Michael,Malibu,9,"22,140",199260,427
-2/25/2024,Central,Michael,Tahoe,10,"49,900",499000,446
-9/27/2023,East,April,Tahoe,8,"49,900",399200,356
-12/5/2023,Central,Daniel,Malibu,6,"22,140",132840,377
-10/12/2023,West,Joel,Malibu,10,"22,140",221400,327
-12/8/2023,Central,Daniel,Corvette,7,"58,900",412300,327
-3/13/2024,East,Juan,Corvette,9,"58,900",530100,501
-4/9/2023,Central,Matthew,Silverado 3500HD,6,"35,800",214800,496
-4/27/2023,Central,Zane,Malibu,8,"22,140",177120,389
-5/14/2023,Central,Valerie,Suburban,9,"51,700",465300,438
-6/7/2023,East,Juan,Trax,7,"21,300",149100,523
-10/18/2023,West,Mark,Trax,10,"21,300",213000,193
+5/31/2023,East,Juan,Equinox,9,23800,214200,239
+7/16/2023,West,Joel,Traverse,8,29800,238400,224
+10/7/2023,East,Micah,Bolt EV,8,32620,260960,490
+8/28/2023,Central,Michael,Silverado 1500,9,34600,311400,333
+10/26/2023,Central,Daniel,Trax,8,21300,170400,480
+12/30/2023,Central,Zane,Equinox,6,23800,142800,239
+12/24/2023,East,April,Bolt EV,10,32620,326200,323
+6/25/2023,East,April,Blazer,5,28800,144000,506
+1/10/2024,Central,Matthew,Equinox,6,23800,142800,281
+4/23/2023,East,Juan,Silverado 1500,10,34600,346000,518
+12/14/2023,West,Betty,Blazer,7,28800,201600,364
+7/18/2023,Central,Michael,Traverse,9,29800,268200,205
+7/17/2023,West,Mark,Express,34,32500,1105000,791
+3/15/2024,Central,Valerie,Silverado 3500HD,5,35800,179000,472
+9/14/2023,West,Mark,Silverado 2500HD,9,34600,311400,530
+12/28/2023,Central,Daniel,Silverado 1500,5,34600,173000,409
+7/21/2023,East,Micah,Silverado 2500HD,6,34600,207600,318
+1/22/2024,East ,Micah,Colorado,7,21300,149100,288
+7/18/2023,East,Juan,Equinox,5,23800,119000,261
+7/6/2023,West,Mark,Camaro,9,25000,225000,291
+10/26/2023,Central,Zane,Bolt EV,10,32620,326200,420
+7/11/2023,East,Juan,Blazer,6,28800,172800,207
+8/21/2023,East,April,Colorado,6,21300,127800,519
+5/25/2023,West,Joel,Bolt EV,7,32620,228340,375
+6/28/2023,East,Juan,Camaro,5,25000,125000,336
+8/30/2023,West,Betty,Silverado 1500,8,34600,276800,264
+6/1/2023,East,April,Camaro,9,25000,225000,225
+2/18/2024,Central,Michael,Bolt EV,7,32620,228340,514
+12/28/2023,Central,Valerie,Trax,9,21300,191700,524
+1/26/2024,East,April,Impala,5,31620,158100,469
+9/8/2023,Central,Matthew,Spark,10,13400,134000,300
+10/5/2023,Central,Michael,Bolt EV,5,32620,163100,320
+1/26/2024,West,Joel,Impala,6,31620,189720,253
+9/12/2023,Central,Valerie,Silverado 1500,5,34600,173000,272
+5/4/2023,West,Joel,Blazer,9,28800,259200,561
+4/11/2023,West,Betty,Bolt EV,10,32620,326200,564
+9/15/2023,East,Micah,Impala,6,31620,189720,343
+10/7/2023,East,April,Spark,5,13400,67000,199
+7/16/2023,Central,Valerie,Silverado 2500HD,5,34600,173000,191
+9/19/2023,Central,Valerie,Suburban,5,51700,258500,214
+11/3/2023,East,Juan,Silverado 1500,6,34600,207600,331
+6/26/2023,Central,Daniel,Corvette,5,58900,294500,436
+6/16/2023,West,Mark,Suburban,10,51700,517000,353
+12/23/2023,Central,Matthew,Corvette,9,58900,530100,335
+4/12/2023,Central,Valerie,Corvette,10,58900,589000,423
+2/17/2024,Central,Daniel,Tahoe,10,49900,499000,559
+4/23/2023,Central,Michael,Malibu,10,22140,221400,581
+1/11/2024,West,Betty,Trax,7,21300,149100,231
+3/3/2024,East,Micah,Corvette,5,58900,294500,341
+8/27/2023,Central,Zane,Colorado,8,21300,170400,297
+10/24/2023,Central,Daniel,Sonic,6,16720,100320,317
+6/5/2023,Central,Michael,Traverse,7,29800,208600,184
+4/7/2023,West,Mark,Corvette,7,58900,412300,484
+10/15/2023,West,Mark,Malibu,10,22140,221400,588
+11/13/2023,Central,Michael,Spark,5,13400,67000,203
+7/12/2023,Central,Valerie,Suburban,5,51700,258500,368
+1/5/2024,East,Juan,Corvette,10,58900,589000,296
+6/16/2023,West,Betty,Tahoe,9,49900,449100,354
+6/6/2023,Central,Daniel,Colorado,10,21300,213000,217
+1/14/2024,Central,Zane,Colorado,6,21300,127800,540
+5/19/2023,West,Betty,Malibu,8,22140,177120,397
+4/19/2023,West,Betty,Malibu,5,22140,110700,362
+2/2/2024,East,Micah,Sonic,5,16720,83600,182
+4/3/2023,Central,Michael,Malibu,9,22140,199260,427
+2/25/2024,Central,Michael,Tahoe,10,49900,499000,446
+9/27/2023,East,April,Tahoe,8,49900,399200,356
+12/5/2023,Central,Daniel,Malibu,6,22140,132840,377
+10/12/2023,West,Joel,Malibu,10,22140,221400,327
+12/8/2023,Central,Daniel,Corvette,7,58900,412300,327
+3/13/2024,East,Juan,Corvette,9,58900,530100,501
+4/9/2023,Central,Matthew,Silverado 3500HD,6,35800,214800,496
+4/27/2023,Central,Zane,Malibu,8,22140,177120,389
+5/14/2023,Central,Valerie,Suburban,9,51700,465300,438
+6/7/2023,East,Juan,Trax,7,21300,149100,523
+10/18/2023,West,Mark,Trax,10,21300,213000,193
